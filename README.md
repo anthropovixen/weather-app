@@ -8,7 +8,7 @@ Users can search for different cities to see current temperature, maximum and mi
 
 ![Weather App Showcase](weather-app.gif)
 
-## Features
+## Feature
 
 - Loads data from Open Weather Map API
 - Changes data on keypress
