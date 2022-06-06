@@ -21,7 +21,7 @@ Users can search for different cities to see current temperature, maximum and mi
 
 ### Author
 
-[Tanimara Elias Santos](https://github.com/anthropovixen)
+[Tanimara Elias Santos](https://github.com/tanimaraeliassantos)
 
 ### Version
 
